@@ -2,6 +2,4 @@
 
 ### Tools Used
 
-R
-
-Jupyter
+R & Jupyter
